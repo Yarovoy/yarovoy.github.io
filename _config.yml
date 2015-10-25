@@ -15,7 +15,7 @@ author:
   twitter: electrik_frog
   disqus: yarovoy
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-24600104-1'
 
 # Build settings
 markdown: kramdown
